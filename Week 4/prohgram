@@ -1,0 +1,7 @@
+operation = input(
+    ""+' for addition,
+    '-' for subraction,
+    '*' for multipication,
+    '%' for division,
+    '**' for ex
+)
